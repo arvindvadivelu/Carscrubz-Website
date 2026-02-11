@@ -64,13 +64,13 @@ Unlike heavy framework-based builds, this project focuses on **core frontend mas
 ## 📸 Interface Gallery
 
 <div align="center">
-  <img src="./CarScrubz/assets/class-1.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5%; border: 1px solid #eee;" alt="Car Wash 1">
+  <img src="./CarScrubz/assets/class-1.jpg" width="48%" style="border-radius: 6px; margin-right: 2.5%; border: 1px solid #eee;" alt="Car Wash 1">
   <img src="./CarScrubz/assets/class-2.jpg" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Car Wash 2">
 </div>
 <br>
 <div align="center">
-  <img src="./CarScrubz/assets/Home_Page.png" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Home Page">
-  <img src="./CarScrubz/assets/join.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Car Page">
+  <img src="./CarScrubz/assets/Home_Page.png" width="78%" style="border-radius: 6px; margin-right: 2.5% ; border: 1px solid #eee;" alt="Home Page">
+  <img src="./CarScrubz/assets/join.jpg" width="78%" style="border-radius: 6px; margin-right: 2.5% ; border: 1px solid #eee;" alt="Car Page">
   
 </div>
 
