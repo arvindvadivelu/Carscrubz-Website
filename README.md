@@ -1,49 +1,45 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/BMW.svg" alt="BMW Logo" width="100" height="100">
-  
+  <img src="CarScrubz/assets/logo.png" alt="CarScrubz Logo" width="420" height="320">
+
   <br>
 
-  <h1 style="font-weight: 700; margin-bottom: 0;">BMW M3 CS | Digital Experience</h1>
+  <h1 style="font-weight: 700; margin-bottom: 0;">
+    CarScrubz | Official Car Wash Service Platform
+  </h1>
+  
   <p style="color: #666; font-size: 1.1rem; max-width: 600px;">
-    A high-performance, zero-dependency frontend implementation of the BMW M3 CS launch page. 
-    Engineered for speed, responsiveness, and visual fidelity.
+    A modern, responsive car washing and detailing service website engineered 
+    using pure HTML, CSS, and JavaScript. Built for performance, clean UI, 
+    and seamless customer interaction.
   </p>
 
-  <div style="margin-top: 15px;">
-    <a href="https://bmwm3cs.netlify.app">
-      <img src="https://img.shields.io/badge/View_Live_Demo-CLICK_HERE-0066B1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
+  <div style="margin-top: 20px;">
+    <a href="https://carscrubz.netlify.app">
+      <img src="https://img.shields.io/badge/View_Live_Website-Click_Here-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
   </div>
-  
-  <div style="margin-top: 10px;">
-    <img src="https://img.shields.io/badge/Deployment-Production-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployment Status">
-    <img src="https://img.shields.io/badge/Lighthouse_Score-100%2F100-success?style=for-the-badge&logo=google-lighthouse&logoColor=white" alt="Lighthouse Score">
-    <img src="https://img.shields.io/badge/Tech_Stack-Vanilla_JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="Tech Stack">
+
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Architecture-Zero_Framework-blue?style=for-the-badge" />
   </div>
 </div>
 
 <br><br>
 
-<div align="center">
-  <a href="https://bmwm3cs.netlify.app">
-    <img src="Scroll%20Photo/p1.png" alt="Hero Section - BMW M3 CS" width="100%" style="border-radius: 8px; box-shadow: 0 10px 40px rgba(0,0,0,0.15); border: 1px solid #e1e4e8;">
-  </a>
-</div>
+## 🚗 Project Overview
 
-<br>
+**CarScrubz** is a fully responsive car washing and detailing service website designed to:
 
-## 🚀 Project Overview
+- Showcase premium car wash packages
+- Present service benefits clearly
+- Improve customer engagement
+- Provide smooth and interactive browsing experience
 
-This repository hosts the source code for the **BMW M3 CS** concept landing page. The primary objective was to replicate a **Tier-1 automotive web experience** while strictly adhering to performance best practices. 
+Unlike heavy framework-based builds, this project focuses on **core frontend mastery** using vanilla technologies.
 
-Unlike traditional builds that rely on heavy frameworks (React, Vue), this project utilizes **vanilla web technologies** to demonstrate mastery of the DOM, critical rendering paths, and hardware-accelerated CSS animations.
-
-### Key Technical Achievements
-* **Zero-Dependency Architecture:** No external libraries or bloatware.
-* **Mobile-First Design:** Fully responsive grid system adapting from 320px to 4K resolutions.
-* **Performance Optimized:** Sub-second First Contentful Paint (FCP) via optimized asset loading.
-
-<br>
+---
 
 ## 🛠️ Technology Stack
 
@@ -53,37 +49,39 @@ Unlike traditional builds that rely on heavy frameworks (React, Vue), this proje
 | **Styling** | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Flexbox, Grid, CSS Variables, Keyframe Animations. |
 | **Scripting** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ES6+ syntax, Intersection Observer API for scroll effects. |
 
-<br>
 
+
+## ✨ Key Features
+
+- Mobile-First Responsive Design
+- Clean Modern UI
+- Structured Service Sections
+- Optimized Image Assets
+- Lightweight & Fast Loading
+
+---
 
 ## 📸 Interface Gallery
 
 <div align="center">
-  <img src="Scroll%20Photo/p2.png" width="48%" style="border-radius: 6px; margin-right: 1.5%; border: 1px solid #eee;" alt="Interior Cockpit">
-  <img src="Scroll%20Photo/p3.png" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Exterior Front">
+  <img src="./CarScrubz/assets/class-1.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5%; border: 1px solid #eee;" alt="Interior Cockpit">
+  <img src="./CarScrubz/assets/class-2.jpg" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Exterior Front">
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="Scroll%20Photo/p4.png" width="98%" style="border-radius: 6px; border: 1px solid #eee;" alt="Wide Profile Shot">
+  <img src="./CarScrubz/assets/join.jpg" width="78%" style="border-radius: 6px; border: 1px solid #eee;" alt="Wide Profile Shot">
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="Scroll%20Photo/p5.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
-  <img src="Scroll%20Photo/p6.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Engine Bay">
-  <img src="Scroll%20Photo/p7.png" width="31.5%" style="border-radius: 6px; border: 1px solid #eee;" alt="Rear Diffuser">
-</div>
+  <img src="./CarScrubz/assets/Home Page.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
+  <img src="./CarScrubz/assets/Home Page.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
+  <img src="./CarScrubz/assets/Home Page.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
 
-<br><br>
-
-
-## ⚡ Local Development
-
-To run this project locally, copy the command block below and paste it into your terminal.
-<br>
+## ⚡ Local Setup
 
 ```bash
-git clone https://github.com/arvindvadivelu/BMW-M3-CS-Website.git
+git clone https://github.com/arvindvadivelu/Carscrubz-Website.git
 
-cd BMW-M3-CS-Website
+cd Carscrubz-Website
 
 ## Go to Index.html and click Live Server Run
