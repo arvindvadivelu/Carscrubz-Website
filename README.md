@@ -67,15 +67,12 @@ Unlike heavy framework-based builds, this project focuses on **core frontend mas
   <img src="./CarScrubz/assets/class-1.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5%; border: 1px solid #eee;" alt="Interior Cockpit">
   <img src="./CarScrubz/assets/class-2.jpg" width="48%" style="border-radius: 6px; border: 1px solid #eee;" alt="Exterior Front">
 </div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="./CarScrubz/assets/join.jpg" width="78%" style="border-radius: 6px; border: 1px solid #eee;" alt="Wide Profile Shot">
+<br>
+<div align="center">
+    <img src="./CarScrubz/assets/Home Page.png" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Exterior Front">
+  <img src="./CarScrubz/assets/join.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Exterior Front">
+  
 </div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="./CarScrubz/assets/Home Page.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
-  <img src="./CarScrubz/assets/Home Page.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
-  <img src="./CarScrubz/assets/Home Page.png" width="31.5%" style="border-radius: 6px; margin-right: 1%; border: 1px solid #eee;" alt="Wheel Alloy Detail">
 
 ## ⚡ Local Setup
 
@@ -85,3 +82,4 @@ git clone https://github.com/arvindvadivelu/Carscrubz-Website.git
 cd Carscrubz-Website
 
 ## Go to Index.html and click Live Server Run
+
