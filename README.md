@@ -70,6 +70,7 @@ Unlike heavy framework-based builds, this project focuses on **core frontend mas
 <br>
 <div align="center">
   <img src="./CarScrubz/assets/Home_Page.png" width="78%" style="border-radius: 6px; margin-right: 2.5% ; border: 1px solid #eee;" alt="Home Page">
+  <br>
   <img src="./CarScrubz/assets/join.jpg" width="78%" style="border-radius: 6px; margin-right: 2.5% ; border: 1px solid #eee;" alt="Car Page">
   
 </div>
