@@ -69,8 +69,8 @@ Unlike heavy framework-based builds, this project focuses on **core frontend mas
 </div>
 <br>
 <div align="center">
-    <img src="./CarScrubz/assets/Home Page.png" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Exterior Front">
-  <img src="./CarScrubz/assets/join.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Exterior Front">
+  <img src="./CarScrubz/assets/Home Page.png" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Home Page">
+  <img src="./CarScrubz/assets/join.jpg" width="48%" style="border-radius: 6px; margin-right: 1.5% ; border: 1px solid #eee;" alt="Car Page">
   
 </div>
 
